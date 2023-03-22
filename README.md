@@ -19,7 +19,7 @@ permalink: /about/
 
 ### github clone
 
-```
+```git
 # 프로젝트 폴더 이동
 $ cd {프로젝트 폴더}
 
