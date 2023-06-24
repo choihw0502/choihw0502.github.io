@@ -21,7 +21,8 @@
 title: Choi Hyeongwon
 email: cgd0502@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Themed by ejjoo
+  생년월일 : 1993.06.21
+  이름     :  최형원
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://choihw0502.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: choihw0502
